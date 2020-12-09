@@ -1,1 +1,2 @@
-drop table if exists account_entity_liquibase;
+drop table if exists student_entity;
+drop sequence if exists student_seq;
